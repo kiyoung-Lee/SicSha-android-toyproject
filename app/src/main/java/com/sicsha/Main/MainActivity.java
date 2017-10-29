@@ -12,13 +12,18 @@ import butterknife.ButterKnife;
  * Created by kiyoungLee on 2017-10-16.
  */
 
-public class MainActivity extends AppCompatActivity{
+public class MainActivity extends AppCompatActivity implements MainContract.ActivityView{
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_act);
         ButterKnife.bind(this);
+
+    }
+
+    @Override
+    public void setPresenter(MainContract.Presenter presenter) {
 
     }
 }
