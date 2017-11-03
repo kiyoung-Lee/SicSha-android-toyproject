@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.sicsha.Main.MainContract;
 import com.sicsha.R;
 
 import butterknife.ButterKnife;
@@ -15,7 +16,7 @@ import butterknife.ButterKnife;
  * Created by kiyoungLee on 2017-10-16.
  */
 
-public class FeedFragment extends Fragment {
+public class FeedFragment extends Fragment implements FeedContract.FragmentView {
 
     @Nullable
     @Override
@@ -24,5 +25,10 @@ public class FeedFragment extends Fragment {
         ButterKnife.bind(this, rootView);
 
         return rootView;
+    }
+
+    @Override
+    public void setPresenter(MainContract.Presenter presenter) {
+
     }
 }

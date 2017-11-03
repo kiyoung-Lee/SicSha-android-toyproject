@@ -4,5 +4,10 @@ package com.sicsha.Feed;
  * Created by kiyoungLee on 2017-10-31.
  */
 
-public class FeedPresenterImpl {
+public class FeedPresenterImpl implements FeedContract.Presenter {
+
+    @Override
+    public void start() {
+
+    }
 }
