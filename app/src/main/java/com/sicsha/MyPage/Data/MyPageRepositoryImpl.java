@@ -1,8 +1,0 @@
-package com.sicsha.MyPage.Data;
-
-/**
- * Created by kiyoungLee on 2017-10-31.
- */
-
-public class MyPageRepositoryImpl implements MyPageRepository {
-}
