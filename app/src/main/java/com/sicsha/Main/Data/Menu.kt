@@ -7,7 +7,3 @@ data class Menu(
         val menuType: String,
         val menuList: List<String>
 )
-{
-
-
-}

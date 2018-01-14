@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "740538506221",
+    "firebase_url": "https://sicsha-7c1e2.firebaseio.com",
+    "project_id": "sicsha-7c1e2",
+    "storage_bucket": "sicsha-7c1e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740538506221:android:ef0bed34b1c593a2",
+        "android_client_info": {
+          "package_name": "com.sicsha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740538506221-4cj8v5a92g4g68ku2egcuv02toqmlsgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdtZZfJZU1wf-evU3sM49NnBcnsuBrWr4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
