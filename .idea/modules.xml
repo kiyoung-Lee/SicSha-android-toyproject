@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sicsha-android.iml" filepath="$PROJECT_DIR$/sicsha-android.iml" />
+      <module fileurl="file://C:\Private\Git\sicsha_android_toy\sicsha-android.iml" filepath="C:\Private\Git\sicsha_android_toy\sicsha-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sicsha_android_toy.iml" filepath="$PROJECT_DIR$/sicsha_android_toy.iml" />
       <module fileurl="file://C:\Private\Git\sicsha-android\sicsha_android_toy.iml" filepath="C:\Private\Git\sicsha-android\sicsha_android_toy.iml" />
     </modules>
   </component>
